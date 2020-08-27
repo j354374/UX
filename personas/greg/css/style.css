@@ -229,11 +229,11 @@ figure {
 }
 
 #Library {
-   background-image: url('https://raw.githubusercontent.com/j354374/UX/master/images/before.png');
+   background-image: url('https://raw.githubusercontent.com/j354374/UX/master/images/greg0.jpg');
    height: 600px;
    width: 350px;
 }
 
 #Library:hover {
-   background-image: url('https://raw.githubusercontent.com/j354374/UX/master/images/after.png');
+   background-image: url('https://raw.githubusercontent.com/j354374/UX/master/images/greg1.jpg');
 }
